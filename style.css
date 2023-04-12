@@ -27,4 +27,6 @@ border-radius: 0px 0px 0px 150px;
 .cabecalho__menu-item{
     display: inline;
     margin-left: 20px;
+    color:#FBDF4B;
+    font-size: 32px;
 }
