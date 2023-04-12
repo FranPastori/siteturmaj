@@ -37,6 +37,7 @@ border-radius: 0px 0px 0px 150px;
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 
 .escola__div{
@@ -48,5 +49,6 @@ display: inline;
 .escola__imagem{
     width: 200px;
     height: auto;
+    margin-left: 40px;
 }
 
