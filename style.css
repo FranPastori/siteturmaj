@@ -29,5 +29,6 @@ border-radius: 0px 0px 0px 150px;
     margin-left: 20px;
     color:#FBDF4B;
     font-size: 32px;
+    -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
 }
