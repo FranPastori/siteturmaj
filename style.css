@@ -32,3 +32,20 @@ border-radius: 0px 0px 0px 150px;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
 }
+
+.escola{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.escola__div{
+
+    width: 200px;
+    height: 670px;
+}
+
+.escola__img{
+    width: 200px;
+    height: 670px;
+}
