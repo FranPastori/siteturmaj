@@ -4,7 +4,7 @@ background-color: #Ffffff;
 }
 
 .cabecalho {
-
+display: flex;
 background-color: #BCB0B0;
 border-radius: 0px 0px 0px 150px;
 
