@@ -27,17 +27,19 @@ border-radius: 0px 0px 0px 150px;
 .cabecalho__menu-item{
     display: inline;
     margin-left: 20px;
-    color:#FBDF4B;
+    color:#FEC229;
     font-size: 32px;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
 }
 
 .escola{
+
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: #ECE6E6;
+    border-radius: 40px;
     
 }
 
@@ -53,3 +55,8 @@ border-radius: 0px 0px 0px 150px;
     margin-left: 40px;
 }
 
+.professores {
+
+    background-color: #FEC229;
+    border-radius: 40px;
+}
